@@ -70,7 +70,7 @@ const MenuPosts = ({ withImage }) => {
             Fashion
           </span>
           <h3 className={styles.postTitle}>
-          Air Jordan 14 "Ferrari" Is Set To Make a Return Next Year
+          Air Jordan 14 Ferrari Is Set To Make a Return Next Year
           </h3>
           <div className={styles.detail}>
             <span className={styles.username}>Steve Harrington</span>
